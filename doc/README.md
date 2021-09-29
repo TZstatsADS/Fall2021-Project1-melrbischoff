@@ -2,4 +2,4 @@
 
 ### Doc folder
 
-The doc directory contains the jupyter notebook `main.ipynb` that creates a file called `main.html`, which is the final report.
+The doc directory contains the jupyter notebook `men_and_women_of_philosophy.ipynb` that creates a file called `men_and_women_of_philosophy.html`, which is the final report.
