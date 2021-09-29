@@ -2,11 +2,6 @@
 ## Fall 2021
 ## Project 1: A "data story" on the history of philosophy
 
-<img src="figs/100126-the-glass.jpeg" width="500">
-
-### [Project Description](doc/)
-This is the first and only *individual* (as opposed to *team*) project this semester. 
-
 Term: Fall 2021
 
 + **The Men and Women of Philosophy: Writing and Written About**
