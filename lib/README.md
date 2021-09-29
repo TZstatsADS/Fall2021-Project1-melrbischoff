@@ -1,13 +1,22 @@
 # ADS Project 1:  R Notebook on the history of philosophy
 
-Required Packages:
-    pandas
-    re
-    gensim
-    nltk
-    vaderSentiment
-    textblob
-    wikipedia
+Required packages are downloaded by `utils.ipynb`:
+!pip3 install pandas
+!pip3 install re
+!pip3 install gensim
+!pip3 install bs4
+!pip3 install requests
+!pip3 install fake_useragent
+!pip3 install matplotlib_venn_wordcloud
+!pip3 install wordcloud
+!pip3 install pillow
+!pip3 install wikipedia
+!pip3 install matplotlib
+!pip3 install numpy
+!pip3 install dataframe-image
+!pip3 install nltk
+!pip3 install textblob
+!pip3 install vaderSentiment
 
 This folder contains one notebook `utils.ipynb`. In this file the code that does all of the computation for the project. Below is a description of the code.
 
